@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+}
+
+.strike{
+    text-decoration: line-through;
+    color: red;
+}
+
+body{
+    background-color: rgb(202, 202, 223);
+}
+
+li{
+    background-color: gray;   
+}
+
+button{    
+    color: rgb(73, 85, 56);
+    border-radius: 5px;    
+}
+
+input{
+    border-radius: 10px;
+    border: none;
+}
+
+button:hover{
+    transform: scale(1.1);
+}
+
